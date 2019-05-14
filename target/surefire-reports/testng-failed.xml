@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [eBay app testing]">
+  <test thread-count="5" verbose="0" name="TV purchase test(failed)">
+    <classes>
+      <class name="com.ebaytvshopping.testcases.TC_PurchaseTv">
+        <methods>
+          <include name="basesetup"/>
+          <include name="initObjects"/>
+          <include name="signInToApp"/>
+          <include name="cartActions"/>
+          <include name="doCheckOut"/>
+          <include name="launchApp"/>
+          <include name="goToSignIn"/>
+          <include name="searchAndSelectItem"/>
+          <include name="clearCart"/>
+          <include name="endTest"/>
+        </methods>
+      </class> <!-- com.ebaytvshopping.testcases.TC_PurchaseTv -->
+    </classes>
+  </test> <!-- TV purchase test(failed) -->
+</suite> <!-- Failed suite [eBay app testing] -->

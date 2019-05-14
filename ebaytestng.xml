@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="eBay app testing">
+	<test name="TV purchase test">
+		<classes>
+			<class name="com.ebaytvshopping.testcases.TC_PurchaseTv" />
+		</classes>
+	</test>
+</suite>
