@@ -86,3 +86,29 @@
 2019-05-14 21:46:03,837 [main] INFO com.ebaytvshopping.testcases.TC_PurchaseTv - Code is not written to add valid credit card or PayPal account
 2019-05-14 21:46:03,838 [main] INFO com.ebaytvshopping.testcases.TC_PurchaseTv - Code needs to be added when a valid credit card or PayPal details are available
 2019-05-14 21:46:08,921 [main] INFO com.ebaytvshopping.testcases.TC_PurchaseTv - Test scenario coverage is completed
+2019-05-16 11:52:27,317 [main] INFO com.ebaytvshopping.testcases.TC_PurchaseTv - Successfully logged in
+2019-05-16 11:52:53,367 [main] INFO com.ebaytvshopping.testcases.TC_PurchaseTv - Required item is selected
+2019-05-16 11:53:01,754 [main] INFO com.ebaytvshopping.testcases.TC_PurchaseTv - Required item is added to cart
+2019-05-16 11:53:11,115 [main] INFO com.ebaytvshopping.testcases.TC_PurchaseTv - Checking out
+2019-05-16 11:53:11,644 [main] INFO com.ebaytvshopping.testcases.TC_PurchaseTv - Code is not written to add valid credit card or PayPal account
+2019-05-16 11:53:11,645 [main] INFO com.ebaytvshopping.testcases.TC_PurchaseTv - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-16 11:53:18,077 [main] INFO com.ebaytvshopping.testcases.TC_PurchaseTv - Test scenario coverage is completed
+2019-05-16 11:57:56,838 [main] INFO com.ebaytvshopping.testcases.TC_PurchaseTv - Successfully logged in
+2019-05-16 11:58:34,960 [main] INFO com.ebaytvshopping.testcases.TC_PurchaseTv - Required item is selected
+2019-05-16 15:23:21,636 [main] INFO com.ebaytvshopping.testcases.TC_PurchaseTv - Successfully logged in
+2019-05-16 15:23:31,994 [main] ERROR com.ebaytvshopping.testcases.TC_PurchaseTv - One of the elements of this test is not found or timed out
+2019-05-16 15:23:42,609 [main] ERROR com.ebaytvshopping.testcases.TC_PurchaseTv - One of the elements of searchAndSelectItem test is not found or timed out
+2019-05-16 15:34:11,707 [main] INFO com.ebaytvshopping.testcases.TC_PurchaseTv - Successfully logged in
+2019-05-16 15:34:22,007 [main] ERROR com.ebaytvshopping.testcases.TC_PurchaseTv - One of the elements of this test is not found or timed out
+2019-05-16 15:34:32,227 [main] ERROR com.ebaytvshopping.testcases.TC_PurchaseTv - One of the elements of searchAndSelectItem test is not found or timed out
+2019-05-16 18:57:58,232 [main] INFO com.ebaytvshopping.testcases.TC_PurchaseTv - Successfully logged in
+2019-05-16 18:58:27,833 [main] INFO com.ebaytvshopping.testcases.TC_PurchaseTv - Required item is selected
+2019-05-16 19:08:43,351 [main] INFO com.ebaytvshopping.testcases.TC_PurchaseTv - Successfully logged in
+2019-05-16 19:09:07,504 [main] INFO com.ebaytvshopping.testcases.TC_PurchaseTv - Required item is selected
+2019-05-16 19:27:23,968 [main] INFO com.ebaytvshopping.testcases.TC_PurchaseTv - Successfully logged in
+2019-05-16 19:27:43,591 [main] INFO com.ebaytvshopping.testcases.TC_PurchaseTv - Required item is selected
+2019-05-16 19:27:51,653 [main] INFO com.ebaytvshopping.testcases.TC_PurchaseTv - Required item is added to cart
+2019-05-16 19:27:55,792 [main] INFO com.ebaytvshopping.testcases.TC_PurchaseTv - Checking out
+2019-05-16 19:27:56,369 [main] INFO com.ebaytvshopping.testcases.TC_PurchaseTv - Code is not written to add valid credit card or PayPal account
+2019-05-16 19:27:56,371 [main] INFO com.ebaytvshopping.testcases.TC_PurchaseTv - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-16 19:28:01,147 [main] INFO com.ebaytvshopping.testcases.TC_PurchaseTv - Test scenario coverage is completed

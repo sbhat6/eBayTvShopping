@@ -7,25 +7,28 @@ import io.appium.java_client.android.AndroidElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 import io.appium.java_client.pagefactory.AppiumFieldDecorator;
 
+//This is a Page-Object class for 'Checkout' page
 public class CheckoutPage {
-	public CheckoutPage(AndroidDriver<AndroidElement> driver) {
+	public CheckoutPage(AndroidDriver<AndroidElement> driver) {		//**Java OOP concept 'Constructors' is used here**
 		PageFactory.initElements(new AppiumFieldDecorator(driver), this);
 	}
 
-	@AndroidFindBy(id = "com.ebay.mobile:id/payment_main_text")
-	@CacheLookup
+	@AndroidFindBy(id = "com.ebay.mobile:id/payment_main_text") // Element locator for selecting payment option
+																// -displayed at the time of checkout.
 	AndroidElement paymentMethod;
 
-	public void selectPaymentMethod() {
-		// Code needs to be added when a valid credit card or PayPal details are available
+	public void selectPaymentMethod() { // Method to add a valid payment method.
+		// Code needs to be added when a valid credit card or PayPal details are
+		// -available.
 	}
 
-	@AndroidFindBy(id = "com.ebay.mobile:id/purchase_link")
+	@AndroidFindBy(id = "com.ebay.mobile:id/purchase_link") // Element locator for confirm purchase button displayed on
+															// -the checkout page.
 	@CacheLookup
 	AndroidElement paymentConfirm;
 
-	public void confirmPaymenrAndBuy() {
-		// This button will get enable only after a valid payment method is added
+	public void confirmPaymenrAndBuy() {// Method to click on confirm button after adding payment method.
+		// This button will get enable only after a valid payment method is added.
 		if (paymentConfirm.isEnabled()) {
 			paymentConfirm.click();
 		} else

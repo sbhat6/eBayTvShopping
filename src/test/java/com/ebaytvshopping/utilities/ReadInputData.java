@@ -4,13 +4,14 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.util.Properties;
 
-public class ReadInputData {
+public class ReadInputData { // This class is responsible for reading the values of the variables defined at
+								// '/Config/InputVariables.properties' file.
 	public Properties prop;
 
-	public ReadInputData() {
+	public ReadInputData() { // Java OOP concept 'Constructors' is used here**
 		File fl = new File("./Config/InputVariables.properties");
 		try {
-			FileInputStream fs = new FileInputStream(fl);
+			FileInputStream fs = new FileInputStream(fl); // **Java Properties & FileInputStream classes are used here**
 			prop = new Properties();
 			prop.load(fs);
 		} catch (Exception e) {
@@ -18,7 +19,7 @@ public class ReadInputData {
 		}
 	}
 
-	public String getServerIp() {
+	public String getServerIp() { // All the methods here are used to read the file contents
 		String serverIp = prop.getProperty("serverip");
 		return serverIp;
 	}
