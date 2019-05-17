@@ -46,12 +46,10 @@ public class TC_PurchaseTv extends BaseSetup { // ** Java OOP concept 'Inheritan
 		chp = new CheckoutPage(driver);
 		logs = Logger.getLogger(TC_PurchaseTv.class);
 		PropertyConfigurator.configure(log4jpropath);
-		
 		ScreenOrientation ori = driver.getOrientation();
 		if (ori.value() == "LANDSCAPE") {
 			driver.rotate(ScreenOrientation.PORTRAIT);
 		}
-				
 	}
 
 	@Test(priority = 1) // First test method to launch the app and click menu button.
@@ -60,8 +58,6 @@ public class TC_PurchaseTv extends BaseSetup { // ** Java OOP concept 'Inheritan
 																			// -used in all the test methods below**
 		hp.clickMenu();
 	}
-	
-	
 
 	@Test(priority = 2, dependsOnMethods = { "launchApp" }) // Second test method, which depends on its former, to click
 															// -on sign-in option.
@@ -161,6 +157,5 @@ public class TC_PurchaseTv extends BaseSetup { // ** Java OOP concept 'Inheritan
 		driver.startActivity(new Activity(apkpackage, apkactivity));
 		ip.viewCart();
 		cp.clickRemoveButton();
-		
 	}
 }

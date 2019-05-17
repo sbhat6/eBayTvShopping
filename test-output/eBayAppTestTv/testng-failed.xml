@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [eBay app testing]">
-  <test thread-count="5" verbose="0" name="TV purchase test(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [eBayAppTestTv]">
+  <test thread-count="5" name="BuyQLEDTv(failed)">
     <classes>
       <class name="com.ebaytvshopping.testcases.TC_PurchaseTv">
         <methods>
@@ -18,5 +18,5 @@
         </methods>
       </class> <!-- com.ebaytvshopping.testcases.TC_PurchaseTv -->
     </classes>
-  </test> <!-- TV purchase test(failed) -->
-</suite> <!-- Failed suite [eBay app testing] -->
+  </test> <!-- BuyQLEDTv(failed) -->
+</suite> <!-- Failed suite [eBayAppTestTv] -->

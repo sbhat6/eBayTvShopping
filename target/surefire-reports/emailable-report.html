@@ -8,83 +8,16 @@
 <body>
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
-<tr><th colspan="7">eBay app testing</th></tr>
-<tr><td><a href="#t0">TV purchase test</a></td><td class="num">4</td><td class="num attn">1</td><td class="num attn">1</td><td class="num">289,962</td><td></td><td></td></tr>
+<tr><th colspan="7">eBayAppTestTv</th></tr>
+<tr><td><a href="#t0">BuyQLEDTv</a></td><td class="num">6</td><td class="num">0</td><td class="num">0</td><td class="num">145,259</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">eBay app testing</th></tr></tbody><tbody id="t0"><tr><th colspan="4">TV purchase test &#8212; failed (configuration methods)</th></tr><tr class="failedeven"><td rowspan="1">com.ebaytvshopping.testcases.TC_PurchaseTv</td><td><a href="#m0">clearCart</a></td><td rowspan="1">1557829721471</td><td rowspan="1">46195</td></tr><tr><th colspan="4">TV purchase test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.ebaytvshopping.testcases.TC_PurchaseTv</td><td><a href="#m1">cartActions</a></td><td rowspan="1">1557829709572</td><td rowspan="1">11723</td></tr><tr><th colspan="4">TV purchase test &#8212; skipped (configuration methods)</th></tr><tr class="skippedeven"><td rowspan="1">com.ebaytvshopping.testcases.TC_PurchaseTv</td><td><a href="#m2">endTest</a></td><td rowspan="1">1557829767668</td><td rowspan="1">0</td></tr><tr><th colspan="4">TV purchase test &#8212; skipped</th></tr><tr class="skippedeven"><td rowspan="1">com.ebaytvshopping.testcases.TC_PurchaseTv</td><td><a href="#m3">doCheckOut</a></td><td rowspan="1">1557829721470</td><td rowspan="1">0</td></tr><tr><th colspan="4">TV purchase test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="4">com.ebaytvshopping.testcases.TC_PurchaseTv</td><td><a href="#m4">goToSignIn</a></td><td rowspan="1">1557829576954</td><td rowspan="1">6024</td></tr><tr class="passedeven"><td><a href="#m5">launchApp</a></td><td rowspan="1">1557829573277</td><td rowspan="1">3671</td></tr><tr class="passedeven"><td><a href="#m6">searchAndSelectItem</a></td><td rowspan="1">1557829638288</td><td rowspan="1">71281</td></tr><tr class="passedeven"><td><a href="#m7">signInToApp</a></td><td rowspan="1">1557829582979</td><td rowspan="1">55303</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">eBayAppTestTv</th></tr></tbody><tbody id="t0"><tr><th colspan="4">BuyQLEDTv &#8212; passed</th></tr><tr class="passedeven"><td rowspan="6">com.ebaytvshopping.testcases.TC_PurchaseTv</td><td><a href="#m0">cartActions</a></td><td rowspan="1">1558056906538</td><td rowspan="1">13348</td></tr><tr class="passedeven"><td><a href="#m1">doCheckOut</a></td><td rowspan="1">1558056919887</td><td rowspan="1">5583</td></tr><tr class="passedeven"><td><a href="#m2">goToSignIn</a></td><td rowspan="1">1558056859325</td><td rowspan="1">1028</td></tr><tr class="passedeven"><td><a href="#m3">launchApp</a></td><td rowspan="1">1558056858772</td><td rowspan="1">547</td></tr><tr class="passedeven"><td><a href="#m4">searchAndSelectItem</a></td><td rowspan="1">1558056880943</td><td rowspan="1">25593</td></tr><tr class="passedeven"><td><a href="#m5">signInToApp</a></td><td rowspan="1">1558056860355</td><td rowspan="1">20586</td></tr></tbody>
 </table>
-<h2>TV purchase test</h2><h3 id="m0">com.ebaytvshopping.testcases.TC_PurchaseTv#clearCart</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.NoSuchElementException: Can&apos;t locate an element by this strategy: By.chained({By.id: com.ebay.mobile:id/remove_from_cart_button})
-	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
-	at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:60)
-	at io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$b598166c.isDisplayed(&lt;generated&gt;)
-	at com.ebaytvshopping.pageobjects.CartPage.clickRemoveButton(CartPage.java:83)
-	at com.ebaytvshopping.testcases.TC_PurchaseTv.clearCart(TC_PurchaseTv.java:133)
-Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@6436a7db (tried for 1 second(s) with 500 milliseconds interval)
-	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-	at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
-	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
-	... 34 more
-Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.id: com.ebay.mobile:id/remove_from_cart_button})
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;SB-GANAPATI01&apos;, ip: &apos;192.168.0.7&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_151&apos;
-Driver info: driver.version: AndroidDriver
-	at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:58)
-	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
-	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
-	at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:58)
-	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
-	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
-	at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
-	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
-	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
-	... 36 more
-... Removed 30 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m1">com.ebaytvshopping.testcases.TC_PurchaseTv#cartActions</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.NoSuchElementException: Can&apos;t locate an element by this strategy: By.chained({By.xpath: //android.widget.TextView[@resource-id=&apos;com.ebay.mobile:id/textview_item_name&apos;]})
-	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
-	at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:60)
-	at io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$b598166c.getText(&lt;generated&gt;)
-	at com.ebaytvshopping.pageobjects.ItemPage.getItemTitle(ItemPage.java:20)
-	at com.ebaytvshopping.testcases.TC_PurchaseTv.cartActions(TC_PurchaseTv.java:97)
-Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@21fd5faa (tried for 1 second(s) with 500 milliseconds interval)
-	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-	at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
-	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
-	... 33 more
-Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.xpath: //android.widget.TextView[@resource-id=&apos;com.ebay.mobile:id/textview_item_name&apos;]})
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;SB-GANAPATI01&apos;, ip: &apos;192.168.0.7&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_151&apos;
-Driver info: driver.version: AndroidDriver
-	at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:58)
-	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
-	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
-	at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:58)
-	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
-	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
-	at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
-	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
-	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
-	... 35 more
-... Removed 29 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m2">com.ebaytvshopping.testcases.TC_PurchaseTv#endTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m3">com.ebaytvshopping.testcases.TC_PurchaseTv#doCheckOut</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.Throwable: Method TC_PurchaseTv.doCheckOut()[pri:6, instance:com.ebaytvshopping.testcases.TC_PurchaseTv@6a2bcfcb] depends on not successfully finished methods
-... Removed 22 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m4">com.ebaytvshopping.testcases.TC_PurchaseTv#goToSignIn</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m5">com.ebaytvshopping.testcases.TC_PurchaseTv#launchApp</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m6">com.ebaytvshopping.testcases.TC_PurchaseTv#searchAndSelectItem</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m7">com.ebaytvshopping.testcases.TC_PurchaseTv#signInToApp</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>BuyQLEDTv</h2><h3 id="m0">com.ebaytvshopping.testcases.TC_PurchaseTv#cartActions</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">com.ebaytvshopping.testcases.TC_PurchaseTv#doCheckOut</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">com.ebaytvshopping.testcases.TC_PurchaseTv#goToSignIn</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">com.ebaytvshopping.testcases.TC_PurchaseTv#launchApp</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m4">com.ebaytvshopping.testcases.TC_PurchaseTv#searchAndSelectItem</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m5">com.ebaytvshopping.testcases.TC_PurchaseTv#signInToApp</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

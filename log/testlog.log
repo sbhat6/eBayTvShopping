@@ -112,3 +112,91 @@
 2019-05-16 19:27:56,369 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
 2019-05-16 19:27:56,371 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
 2019-05-16 19:28:01,147 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Test scenario coverage is completed
+2019-05-16 20:49:52,101 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-16 20:50:18,113 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-16 20:50:26,068 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-16 20:50:29,738 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking out
+2019-05-16 20:50:30,317 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
+2019-05-16 20:50:30,318 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-16 20:50:36,723 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Test scenario coverage is completed
+2019-05-16 21:11:52,479 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-16 21:12:15,773 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-16 21:12:19,547 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-16 21:12:28,310 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking out
+2019-05-16 21:12:28,931 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
+2019-05-16 21:12:28,931 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-16 21:12:33,795 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Test scenario coverage is completed
+2019-05-17 10:13:44,573 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-17 10:14:04,987 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-17 10:14:09,044 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-17 10:14:16,831 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - There is mismatch between cart info and item description
+2019-05-17 10:14:17,298 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
+2019-05-17 10:14:17,298 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-17 11:18:59,111 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-17 11:19:16,697 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-17 11:19:20,095 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-17 11:19:27,282 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - There is mismatch between cart info and item description
+2019-05-17 11:19:27,358 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
+2019-05-17 11:19:27,358 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-17 11:29:57,483 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-17 11:30:21,717 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-17 11:30:25,441 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-17 11:30:34,006 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - There is mismatch between cart info and item description
+2019-05-17 11:30:34,439 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
+2019-05-17 11:30:34,440 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-17 11:34:39,112 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-17 11:35:06,535 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-17 11:35:15,904 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-17 11:35:19,885 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking out
+2019-05-17 11:35:20,471 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
+2019-05-17 11:35:20,472 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-17 11:35:25,469 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Test scenario coverage is completed
+2019-05-17 11:44:45,565 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-17 11:45:22,289 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-17 11:45:30,787 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-17 11:45:34,981 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking out
+2019-05-17 11:45:35,569 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
+2019-05-17 11:45:35,570 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-17 11:45:40,434 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Test scenario coverage is completed
+2019-05-17 11:53:14,357 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-17 11:53:35,499 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-17 11:53:38,901 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-17 11:53:47,614 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking out
+2019-05-17 11:53:48,194 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
+2019-05-17 11:53:48,195 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-17 11:53:53,314 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Test scenario coverage is completed
+2019-05-17 11:57:04,055 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-17 11:57:29,688 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-17 11:57:38,641 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-17 11:57:42,783 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking out
+2019-05-17 11:57:43,369 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
+2019-05-17 11:57:43,370 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-17 11:57:47,799 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Test scenario coverage is completed
+2019-05-17 12:07:53,699 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-17 12:08:17,452 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-17 12:08:26,405 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-17 12:08:30,906 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking out
+2019-05-17 12:08:31,469 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
+2019-05-17 12:08:31,470 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-17 12:08:36,242 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Test scenario coverage is completed
+2019-05-17 12:24:17,494 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-17 12:24:38,749 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-17 12:24:42,296 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-17 12:24:50,909 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking out
+2019-05-17 12:24:51,467 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
+2019-05-17 12:24:51,468 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-17 12:24:56,538 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Test scenario coverage is completed
+2019-05-17 12:47:37,321 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-17 12:48:04,658 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-17 12:48:12,585 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-17 12:48:16,566 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking out
+2019-05-17 12:48:17,157 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
+2019-05-17 12:48:17,159 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-17 12:48:21,863 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Test scenario coverage is completed
+2019-05-17 13:03:15,095 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-17 13:03:35,508 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-17 13:03:43,696 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-17 13:03:48,512 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking out
+2019-05-17 13:03:49,084 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
+2019-05-17 13:03:49,085 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-17 13:03:52,833 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Test scenario coverage is completed

@@ -1,7 +1,6 @@
 com\ebaytvshopping\pageobjects\ItemPage.class
 com\ebaytvshopping\testcases\BaseSetup.class
 com\ebaytvshopping\pageobjects\MenuPage.class
-practice\practice.class
 com\ebaytvshopping\pageobjects\LoginPage.class
 com\ebaytvshopping\pageobjects\SearchResultPage.class
 com\ebaytvshopping\pageobjects\CheckoutPage.class
@@ -9,3 +8,4 @@ com\ebaytvshopping\pageobjects\CartPage.class
 com\ebaytvshopping\pageobjects\HomePage.class
 com\ebaytvshopping\testcases\TC_PurchaseTv.class
 com\ebaytvshopping\utilities\ReadInputData.class
+com\ebaytvshopping\utilities\TestReporting.class
