@@ -3,14 +3,16 @@ package com.ebaytvshopping.pageobjects;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.PageFactory;
 
+import com.ebaytvshopping.testcases.TC_PurchaseTv;
+
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.AndroidElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 import io.appium.java_client.pagefactory.AppiumFieldDecorator;
 
 //This is a Page-Object class for app 'Menu' page
-public class MenuPage {
-	public MenuPage(AndroidDriver<AndroidElement> driver) {		//**Java OOP concept 'Constructors' is used here**
+public class MenuPage extends TC_PurchaseTv {
+	public MenuPage(AndroidDriver<AndroidElement> driver) { // **Java OOP concept 'Constructors' is used here**
 		PageFactory.initElements(new AppiumFieldDecorator(driver), this);
 	}
 
@@ -19,6 +21,6 @@ public class MenuPage {
 	AndroidElement signinButton;
 
 	public void clickSigninText() { // Method to click sign-in option
-		signinButton.click();
+			signinButton.click();
 	}
 }

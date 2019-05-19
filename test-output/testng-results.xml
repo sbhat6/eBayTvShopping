@@ -2,52 +2,52 @@
 <testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="129234" started-at="2019-05-17T03:02:07Z" finished-at="2019-05-17T03:04:16Z">
+  <suite name="eBayAppTest" duration-ms="107523" started-at="2019-05-19T15:26:39Z" finished-at="2019-05-19T15:28:26Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="129234" started-at="2019-05-17T03:02:07Z" finished-at="2019-05-17T03:04:16Z">
+    <test name="TvPurchaseTestCase" duration-ms="107523" started-at="2019-05-19T15:26:39Z" finished-at="2019-05-19T15:28:26Z">
       <class name="com.ebaytvshopping.testcases.TC_PurchaseTv">
-        <test-method status="PASS" signature="basesetup()[pri:0, instance:com.ebaytvshopping.testcases.TC_PurchaseTv@5cb9f472]" name="basesetup" is-config="true" duration-ms="46288" started-at="2019-05-17T03:02:07Z" finished-at="2019-05-17T03:02:53Z">
+        <test-method status="PASS" signature="basesetup()[pri:0, instance:com.ebaytvshopping.testcases.TC_PurchaseTv@27c20538]" name="basesetup" is-config="true" duration-ms="24787" started-at="2019-05-19T15:26:39Z" finished-at="2019-05-19T15:27:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basesetup -->
-        <test-method status="PASS" signature="initObjects()[pri:0, instance:com.ebaytvshopping.testcases.TC_PurchaseTv@5cb9f472]" name="initObjects" is-config="true" duration-ms="1142" started-at="2019-05-17T03:02:53Z" finished-at="2019-05-17T03:02:54Z">
+        <test-method status="PASS" signature="initObjects()[pri:0, instance:com.ebaytvshopping.testcases.TC_PurchaseTv@27c20538]" name="initObjects" is-config="true" duration-ms="1021" started-at="2019-05-19T15:27:04Z" finished-at="2019-05-19T15:27:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initObjects -->
-        <test-method status="PASS" signature="launchApp()[pri:1, instance:com.ebaytvshopping.testcases.TC_PurchaseTv@5cb9f472]" name="launchApp" duration-ms="531" started-at="2019-05-17T03:02:54Z" finished-at="2019-05-17T03:02:55Z">
+        <test-method status="PASS" signature="launchApp()[pri:1, instance:com.ebaytvshopping.testcases.TC_PurchaseTv@27c20538]" name="launchApp" duration-ms="537" started-at="2019-05-19T15:27:05Z" finished-at="2019-05-19T15:27:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApp -->
-        <test-method status="PASS" signature="goToSignIn()[pri:2, instance:com.ebaytvshopping.testcases.TC_PurchaseTv@5cb9f472]" name="goToSignIn" duration-ms="1125" started-at="2019-05-17T03:02:55Z" depends-on-methods="com.ebaytvshopping.testcases.TC_PurchaseTv.launchApp" finished-at="2019-05-17T03:02:56Z">
+        <test-method status="PASS" signature="goToSignIn()[pri:2, instance:com.ebaytvshopping.testcases.TC_PurchaseTv@27c20538]" name="goToSignIn" duration-ms="1166" started-at="2019-05-19T15:27:05Z" depends-on-methods="com.ebaytvshopping.testcases.TC_PurchaseTv.launchApp" finished-at="2019-05-19T15:27:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- goToSignIn -->
-        <test-method status="PASS" signature="signInToApp()[pri:3, instance:com.ebaytvshopping.testcases.TC_PurchaseTv@5cb9f472]" name="signInToApp" duration-ms="19565" started-at="2019-05-17T03:02:56Z" depends-on-methods="com.ebaytvshopping.testcases.TC_PurchaseTv.goToSignIn" finished-at="2019-05-17T03:03:16Z">
+        <test-method status="PASS" signature="signInToApp()[pri:3, instance:com.ebaytvshopping.testcases.TC_PurchaseTv@27c20538]" name="signInToApp" duration-ms="20443" started-at="2019-05-19T15:27:07Z" depends-on-methods="com.ebaytvshopping.testcases.TC_PurchaseTv.goToSignIn" finished-at="2019-05-19T15:27:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signInToApp -->
-        <test-method status="PASS" signature="searchAndSelectItem()[pri:4, instance:com.ebaytvshopping.testcases.TC_PurchaseTv@5cb9f472]" name="searchAndSelectItem" duration-ms="19497" started-at="2019-05-17T03:03:16Z" depends-on-methods="com.ebaytvshopping.testcases.TC_PurchaseTv.signInToApp" finished-at="2019-05-17T03:03:35Z">
+        <test-method status="PASS" signature="searchAndSelectItem()[pri:4, instance:com.ebaytvshopping.testcases.TC_PurchaseTv@27c20538]" name="searchAndSelectItem" duration-ms="19925" started-at="2019-05-19T15:27:27Z" depends-on-methods="com.ebaytvshopping.testcases.TC_PurchaseTv.signInToApp" finished-at="2019-05-19T15:27:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchAndSelectItem -->
-        <test-method status="PASS" signature="cartActions()[pri:5, instance:com.ebaytvshopping.testcases.TC_PurchaseTv@5cb9f472]" name="cartActions" duration-ms="13003" started-at="2019-05-17T03:03:35Z" depends-on-methods="com.ebaytvshopping.testcases.TC_PurchaseTv.searchAndSelectItem" finished-at="2019-05-17T03:03:48Z">
+        <test-method status="PASS" signature="cartActions()[pri:5, instance:com.ebaytvshopping.testcases.TC_PurchaseTv@27c20538]" name="cartActions" duration-ms="11027" started-at="2019-05-19T15:27:47Z" depends-on-methods="com.ebaytvshopping.testcases.TC_PurchaseTv.searchAndSelectItem" finished-at="2019-05-19T15:27:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cartActions -->
-        <test-method status="PASS" signature="doCheckOut()[pri:6, instance:com.ebaytvshopping.testcases.TC_PurchaseTv@5cb9f472]" name="doCheckOut" duration-ms="4315" started-at="2019-05-17T03:03:48Z" depends-on-methods="com.ebaytvshopping.testcases.TC_PurchaseTv.cartActions" finished-at="2019-05-17T03:03:52Z">
+        <test-method status="PASS" signature="doCheckOut()[pri:6, instance:com.ebaytvshopping.testcases.TC_PurchaseTv@27c20538]" name="doCheckOut" duration-ms="5103" started-at="2019-05-19T15:27:58Z" depends-on-methods="com.ebaytvshopping.testcases.TC_PurchaseTv.cartActions" finished-at="2019-05-19T15:28:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- doCheckOut -->
-        <test-method status="PASS" signature="clearCart()[pri:0, instance:com.ebaytvshopping.testcases.TC_PurchaseTv@5cb9f472]" name="clearCart" is-config="true" duration-ms="20629" started-at="2019-05-17T03:03:52Z" finished-at="2019-05-17T03:04:13Z">
+        <test-method status="PASS" signature="clearCart()[pri:0, instance:com.ebaytvshopping.testcases.TC_PurchaseTv@27c20538]" name="clearCart" is-config="true" duration-ms="20610" started-at="2019-05-19T15:28:03Z" finished-at="2019-05-19T15:28:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clearCart -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:com.ebaytvshopping.testcases.TC_PurchaseTv@5cb9f472]" name="endTest" is-config="true" duration-ms="3038" started-at="2019-05-17T03:04:13Z" finished-at="2019-05-17T03:04:16Z">
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.ebaytvshopping.testcases.TC_PurchaseTv@27c20538]" name="endTest" is-config="true" duration-ms="2494" started-at="2019-05-19T15:28:24Z" finished-at="2019-05-19T15:28:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->
       </class> <!-- com.ebaytvshopping.testcases.TC_PurchaseTv -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- TvPurchaseTestCase -->
+  </suite> <!-- eBayAppTest -->
 </testng-results>

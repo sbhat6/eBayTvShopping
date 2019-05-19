@@ -2,14 +2,17 @@ package com.ebaytvshopping.pageobjects;
 
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.PageFactory;
+
+import com.ebaytvshopping.testcases.TC_PurchaseTv;
+
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.AndroidElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 import io.appium.java_client.pagefactory.AppiumFieldDecorator;
 
 //This is a Page-Object class for 'Checkout' page
-public class CheckoutPage {
-	public CheckoutPage(AndroidDriver<AndroidElement> driver) {		//**Java OOP concept 'Constructors' is used here**
+public class CheckoutPage extends TC_PurchaseTv {
+	public CheckoutPage(AndroidDriver<AndroidElement> driver) { // **Java OOP concept 'Constructors' is used here**
 		PageFactory.initElements(new AppiumFieldDecorator(driver), this);
 	}
 

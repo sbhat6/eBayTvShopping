@@ -4,7 +4,7 @@
 	<listeners>
 		<listener class-name="com.ebaytvshopping.utilities.TestReporting" />
 	</listeners>
-	<test name="TvPurchase">
+	<test name="TvPurchaseTestCase">
 		<classes>
 			<class name="com.ebaytvshopping.testcases.TC_PurchaseTv" />
 		</classes>

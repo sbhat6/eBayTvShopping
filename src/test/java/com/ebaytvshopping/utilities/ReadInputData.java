@@ -5,7 +5,7 @@ import java.io.FileInputStream;
 import java.util.Properties;
 
 public class ReadInputData { // This class is responsible for reading the values of the variables defined at
-								// '/Config/InputVariables.properties' file.
+								// - ./Config/InputVariables.properties' file.
 	public Properties prop;
 
 	public ReadInputData() { // Java OOP concept 'Constructors' is used here**
@@ -19,7 +19,8 @@ public class ReadInputData { // This class is responsible for reading the values
 		}
 	}
 
-	public String getServerIp() { // All the methods here are used to read the file contents
+	// All the methods here are used to read the file contents
+	public String getServerIp() { 
 		String serverIp = prop.getProperty("serverip");
 		return serverIp;
 	}

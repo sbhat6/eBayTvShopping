@@ -6,14 +6,16 @@ import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 
+import com.ebaytvshopping.testcases.TC_PurchaseTv;
+
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.AndroidElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 import io.appium.java_client.pagefactory.AppiumFieldDecorator;
 
 //This is a Page-Object class for 'Cart' page.
-public class CartPage {
-	public CartPage(AndroidDriver<AndroidElement> driver) {		//**Java OOP concept 'Constructors' is used here**
+public class CartPage extends TC_PurchaseTv {
+	public CartPage(AndroidDriver<AndroidElement> driver) { // **Java OOP concept 'Constructors' is used here**
 		PageFactory.initElements(new AppiumFieldDecorator(driver), this);
 	}
 
@@ -28,7 +30,7 @@ public class CartPage {
 				"Asserion failed: Item name displayed in cart is not matching item description");
 	}
 
-	@AndroidFindBy(id = "com.ebay.mobile:id/item_price") // Element locator for item price displayed in the cart
+	@AndroidFindBy(id = "com.ebay.mobile:id/item_price") // Element locator for item price displayed in the cart.
 	@CacheLookup
 	AndroidElement cartItemPrices;
 
@@ -39,8 +41,7 @@ public class CartPage {
 		String u = t.substring(4);
 		String v = u.replace(",", "");
 		float w = Float.parseFloat(v);
-		Assert.assertEquals(itemPrice, w,
-				"Asserion failed: Item price displayed in cart is not matching item description");
+		Assert.assertEquals(itemPrice, w, "Asserion failed: Item price displayed in cart is not matching item description");
 	}
 
 	@AndroidFindBy(id = "com.ebay.mobile:id/item_est_shipping_cost") // Element locator for item shipping cost displayed
@@ -56,7 +57,7 @@ public class CartPage {
 		String y = x.substring(6);
 		float z = Float.parseFloat(y);
 		Assert.assertEquals(itemPostagePrice, z,
-				"Asserion failed: Item shipping cost displayed in cart is not matching item description");
+				"Asserion failed: Item shipping cost displayed in cart could not be matching item description");
 	}
 
 	@AndroidFindBy(id = "com.ebay.mobile:id/shopping_cart_subtotal_amount") // Element locator for item total price
@@ -77,7 +78,7 @@ public class CartPage {
 			Assert.assertTrue(true);
 		} else
 			Assert.assertTrue(false,
-					"Asserion failed: Item total price displayed in cart is not the sum of item price and shipping cost");
+					"Asserion failed: Item total price displayed in cart is not the sum of item price and shipping cost; Test failed, further tests will be skipped");
 	}
 
 	@AndroidFindBy(id = "com.ebay.mobile:id/shopping_cart_checkout") // Element locator for checkout button displayed in

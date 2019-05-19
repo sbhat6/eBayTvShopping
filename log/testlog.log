@@ -200,3 +200,380 @@
 2019-05-17 13:03:49,084 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
 2019-05-17 13:03:49,085 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
 2019-05-17 13:03:52,833 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Test scenario coverage is completed
+2019-05-17 21:15:40,791 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-17 21:16:04,611 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-17 21:16:13,882 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-17 21:16:18,614 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking out
+2019-05-17 21:16:19,258 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
+2019-05-17 21:16:19,261 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-17 21:16:24,545 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Test scenario coverage is completed
+2019-05-17 21:21:10,131 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-17 21:21:35,435 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-17 21:21:39,209 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-17 21:21:48,941 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking out
+2019-05-17 21:21:49,519 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
+2019-05-17 21:21:49,520 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-17 21:21:54,770 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Test scenario coverage is completed
+2019-05-17 21:29:31,202 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-17 21:29:53,694 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-17 21:30:01,208 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-17 21:30:05,666 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking out
+2019-05-17 21:30:06,240 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
+2019-05-17 21:30:06,242 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-17 21:30:10,510 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Test scenario coverage is completed
+2019-05-17 21:55:32,233 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-17 21:55:55,866 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-17 21:56:04,553 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-17 21:56:09,320 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking out
+2019-05-17 21:56:09,909 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
+2019-05-17 21:56:09,910 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-17 21:56:14,860 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Test scenario coverage is completed
+2019-05-17 22:01:07,994 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-17 22:01:33,722 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-17 22:01:40,905 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-17 22:01:44,299 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - There is mismatch between cart info and item description
+2019-05-17 22:01:44,578 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
+2019-05-17 22:01:44,580 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-17 22:02:16,167 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-17 22:05:00,900 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-17 22:05:25,718 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-17 22:05:34,616 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-17 22:05:38,143 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - There is mismatch between cart info and item description
+2019-05-17 22:05:38,378 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
+2019-05-17 22:05:38,379 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-17 22:06:09,612 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-17 22:15:15,893 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-17 22:15:40,318 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-17 22:15:44,542 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-17 22:15:52,088 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - There is mismatch between cart info and item description
+2019-05-17 22:15:52,882 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
+2019-05-17 22:15:52,884 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-17 22:16:24,553 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-17 22:19:22,700 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-17 22:19:35,236 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One of the elements of searchAndSelectItem test is not found or timed out
+2019-05-17 22:26:36,727 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-17 22:26:49,015 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One of the elements of searchAndSelectItem test is not found or timed out
+2019-05-19 09:03:44,482 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 09:03:57,061 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One of the elements of searchAndSelectItem test is not found or timed out
+2019-05-19 09:07:00,354 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 09:07:13,600 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One of the elements of searchAndSelectItem test is not found or timed out
+2019-05-19 09:33:28,261 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 09:33:41,055 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One of the elements of searchAndSelectItem test is not found or timed out
+2019-05-19 10:32:26,747 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 10:32:38,430 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One of the elements of searchAndSelectItem test is not found or timed out
+2019-05-19 19:43:51,424 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 19:44:13,358 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-19 19:44:16,999 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-19 19:44:23,864 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking out
+2019-05-19 19:44:24,664 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
+2019-05-19 19:44:24,664 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-19 19:44:29,632 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Test scenario coverage is completed
+2019-05-19 19:44:47,931 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-19 19:46:20,683 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 19:46:42,653 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-19 19:46:46,391 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-19 19:46:49,786 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking out
+2019-05-19 19:46:50,501 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
+2019-05-19 19:46:50,501 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-19 19:46:55,185 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Test scenario coverage is completed
+2019-05-19 19:47:14,795 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-19 19:48:36,646 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 19:48:49,543 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One of the elements of searchAndSelectItem test is not found
+2019-05-19 19:57:55,872 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 20:05:14,402 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 20:41:30,651 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 21:31:36,667 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 21:33:34,960 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-19 21:33:36,506 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-19 21:33:55,356 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 21:33:59,066 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Searching for the item
+2019-05-19 21:34:13,560 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-19 21:34:13,572 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Cheking item details
+2019-05-19 21:34:16,828 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-19 21:34:21,850 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking cart details
+2019-05-19 21:34:23,944 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking out
+2019-05-19 21:34:25,065 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
+2019-05-19 21:34:25,065 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-19 21:34:29,808 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Test scenario coverage is completed
+2019-05-19 21:34:49,749 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-19 21:36:26,818 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-19 21:36:28,581 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-19 21:36:47,728 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 21:37:00,743 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for Search Box could not be found; Test failed, further tests will be skipped
+2019-05-19 21:37:00,743 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Searching for the item
+2019-05-19 21:37:11,646 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for Search TextBox could not be found; Test failed, further tests will be skipped
+2019-05-19 21:37:49,479 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One or more of these could not be found on Cart Page- remove button, confirm remove pop-up, close cart button; Test failed, further tests will be skipped
+2019-05-19 21:37:49,480 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-19 21:51:28,445 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-19 21:51:34,243 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-19 21:51:52,264 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 21:52:04,357 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for Search Box could not be found; Test failed, further tests will be skipped
+2019-05-19 21:52:04,358 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Searching for the item
+2019-05-19 21:52:14,859 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for Search TextBox could not be found; Test failed, further tests will be skipped
+2019-05-19 21:52:30,551 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Cheking item details
+2019-05-19 21:52:41,176 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for item's title could not be found on Item Page; Test failed, further tests will be skipped
+2019-05-19 21:52:51,575 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for item's price could not be found on Item Page; Test failed, further tests will be skipped
+2019-05-19 21:53:28,064 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One or more of these could not be found on Cart Page- remove button, confirm remove pop-up, close cart button; Test failed, further tests will be skipped
+2019-05-19 21:53:28,065 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-19 21:54:35,675 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-19 21:54:37,403 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-19 21:54:56,070 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 21:55:07,771 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for Search Box could not be found; Test failed, further tests will be skipped
+2019-05-19 21:55:07,772 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Searching for the item
+2019-05-19 21:55:18,017 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for Search TextBox could not be found; Test failed, further tests will be skipped
+2019-05-19 21:55:33,217 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Cheking item details
+2019-05-19 21:55:43,719 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for item's title could not be found on Item Page; Test failed, further tests will be skipped
+2019-05-19 21:55:54,365 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for item's price could not be found on Item Page; Test failed, further tests will be skipped
+2019-05-19 21:56:33,984 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One or more of these could not be found on Cart Page- remove button, confirm remove pop-up, close cart button; Test failed, further tests will be skipped
+2019-05-19 21:56:33,984 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-19 21:58:34,186 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-19 21:58:35,775 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-19 21:58:54,076 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 21:59:05,883 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for Search Box could not be found; Test failed, further tests will be skipped
+2019-05-19 21:59:05,883 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Searching for the item
+2019-05-19 21:59:16,556 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for Search TextBox could not be found; Test failed, further tests will be skipped
+2019-05-19 21:59:32,398 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Cheking item details
+2019-05-19 21:59:42,747 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for item's title could not be found on Item Page; Test failed, further tests will be skipped
+2019-05-19 21:59:52,908 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for item's price could not be found on Item Page; Test failed, further tests will be skipped
+2019-05-19 22:00:33,220 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One or more of these could not be found on Cart Page- remove button, confirm remove pop-up, close cart button; Test failed, further tests will be skipped
+2019-05-19 22:00:33,220 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-19 22:03:52,682 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-19 22:03:54,454 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-19 22:04:12,474 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 22:04:24,413 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for Search Box could not be found; Test failed, further tests will be skipped
+2019-05-19 22:04:24,414 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Searching for the item
+2019-05-19 22:04:34,755 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for Search TextBox could not be found; Test failed, further tests will be skipped
+2019-05-19 22:04:50,566 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Cheking item details
+2019-05-19 22:05:00,694 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for item's title could not be found on Item Page; Test failed, further tests will be skipped
+2019-05-19 22:05:10,766 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for item's price could not be found on Item Page; Test failed, further tests will be skipped
+2019-05-19 22:05:49,210 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One or more of these could not be found on Cart Page- remove button, confirm remove pop-up, close cart button; Test failed, further tests will be skipped
+2019-05-19 22:05:49,211 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-19 22:06:47,077 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-19 22:06:48,841 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-19 22:07:06,773 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 22:07:18,781 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for Search Box could not be found; Test failed, further tests will be skipped
+2019-05-19 22:07:18,781 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Searching for the item
+2019-05-19 22:07:28,903 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for Search TextBox could not be found; Test failed, further tests will be skipped
+2019-05-19 22:07:44,429 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Cheking item details
+2019-05-19 22:07:54,931 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for item's title could not be found on Item Page; Test failed, further tests will be skipped
+2019-05-19 22:08:04,987 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for item's price could not be found on Item Page; Test failed, further tests will be skipped
+2019-05-19 22:08:42,193 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One or more of these could not be found on Cart Page- remove button, confirm remove pop-up, close cart button; Test failed, further tests will be skipped
+2019-05-19 22:08:42,194 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-19 22:36:41,357 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-19 22:36:43,094 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-19 22:37:01,384 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 22:37:13,127 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for Search Box could not be found; Test failed, further tests will be skipped
+2019-05-19 22:37:13,127 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Searching for the item
+2019-05-19 22:37:23,348 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for Search TextBox could not be found; Test failed, further tests will be skipped
+2019-05-19 22:37:38,841 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Cheking item details
+2019-05-19 22:37:49,245 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for item's title could not be found on Item Page; Test failed, further tests will be skipped
+2019-05-19 22:38:00,497 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for item's price could not be found on Item Page; Test failed, further tests will be skipped
+2019-05-19 22:38:38,563 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One or more of these could not be found on Cart Page- remove button, confirm remove pop-up, close cart button; Test failed, further tests will be skipped
+2019-05-19 22:38:38,564 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-19 22:40:31,233 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-19 22:40:32,915 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-19 22:40:50,808 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 22:41:02,633 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Searching for the item
+2019-05-19 22:41:29,633 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Cheking item details
+2019-05-19 22:41:39,660 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for item's title could not be found on Item Page; Test failed, further tests will be skipped
+2019-05-19 22:41:49,682 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for item's price could not be found on Item Page; Test failed, further tests will be skipped
+2019-05-19 22:42:26,186 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One or more of these could not be found on Cart Page- remove button, confirm remove pop-up, close cart button; Test failed, further tests will be skipped
+2019-05-19 22:42:26,187 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-19 22:46:44,033 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-19 22:46:45,701 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-19 22:47:04,324 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 22:47:16,036 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for Search Box could not be found; Test failed, further tests will be skipped
+2019-05-19 22:47:16,037 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Searching for the item
+2019-05-19 22:47:26,613 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for Search TextBox could not be found; Test failed, further tests will be skipped
+2019-05-19 22:48:05,197 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One or more of these could not be found on Cart Page- remove button, confirm remove pop-up, close cart button; Test failed, further tests will be skipped
+2019-05-19 22:48:05,198 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-19 22:49:09,158 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-19 22:49:10,917 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-19 22:49:29,428 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 22:49:41,740 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for Search Box could not be found; Test failed, further tests will be skipped
+2019-05-19 22:49:41,741 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Searching for the item
+2019-05-19 22:49:51,977 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for Search TextBox could not be found; Test failed, further tests will be skipped
+2019-05-19 22:50:28,553 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One or more of these could not be found on Cart Page- remove button, confirm remove pop-up, close cart button; Test failed, further tests will be skipped
+2019-05-19 22:50:28,554 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-19 22:54:50,529 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-19 22:54:52,121 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-19 22:55:10,470 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 22:55:22,453 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for Search Box could not be found; Test failed, further tests will be skipped
+2019-05-19 22:55:22,454 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Searching for the item
+2019-05-19 22:55:33,071 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - Element for Search TextBox could not be found; Test failed, further tests will be skipped
+2019-05-19 22:56:10,143 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One or more of these could not be found on Cart Page- remove button, confirm remove pop-up, close cart button; Test failed, further tests will be skipped
+2019-05-19 22:56:10,144 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-19 23:18:34,773 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-19 23:18:36,435 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-19 23:18:54,697 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 23:19:29,845 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One or more of these could not be found on Cart Page- remove button, confirm remove pop-up, close cart button; Test failed, further tests will be skipped
+2019-05-19 23:19:29,846 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-19 23:34:50,749 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-19 23:34:52,439 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-19 23:35:10,875 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 23:35:44,687 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One or more of these could not be found on Cart Page- remove button, confirm remove pop-up, close cart button; Test failed, further tests will be skipped
+2019-05-19 23:35:44,688 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-19 23:47:36,649 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-19 23:47:38,551 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-19 23:47:57,175 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 23:48:09,514 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Cheking item details
+2019-05-19 23:51:52,557 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-19 23:51:54,239 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-19 23:52:11,957 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 23:52:24,308 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Cheking item details
+2019-05-19 23:55:34,171 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-19 23:55:35,800 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-19 23:55:54,183 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 23:56:06,443 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Cheking item details
+2019-05-19 23:58:35,944 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-19 23:58:37,719 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-19 23:58:56,355 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-19 23:59:08,095 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Cheking item details
+2019-05-20 00:01:46,460 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-20 00:01:48,207 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-20 00:02:06,790 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-20 00:02:18,507 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Cheking item details
+2019-05-20 00:06:15,102 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-20 00:06:17,025 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-20 00:06:34,523 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-20 00:09:14,429 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-20 00:09:16,200 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-20 00:09:35,103 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-20 00:14:51,844 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-20 00:14:53,426 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-20 00:15:11,922 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-20 00:19:32,873 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-20 00:19:34,807 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-20 00:19:54,092 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-20 00:22:14,510 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-20 00:22:16,244 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-20 00:22:34,961 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-20 00:26:09,129 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-20 00:26:10,753 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-20 00:26:29,387 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-20 00:26:32,053 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Searching for the item
+2019-05-20 00:28:59,423 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-20 00:29:00,977 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-20 00:29:18,835 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-20 00:29:21,124 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Searching for the item
+2019-05-20 00:47:19,224 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-20 00:47:21,028 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-20 00:47:39,244 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-20 00:47:42,164 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Searching for the item
+2019-05-20 00:49:59,888 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-20 00:50:02,040 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-20 00:50:20,352 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-20 00:50:23,066 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Searching for the item
+2019-05-20 00:50:33,379 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One of the elements of this test could not be found. Please refer the error stacktrace below
+2019-05-20 00:50:33,380 - com.ebaytvshopping.testcases.TC_PurchaseTv -FATAL - Test Failed!! Remainig tests will be skipped
+2019-05-20 00:50:55,535 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One of the elements of this test could not be found. Please refer the error stacktrace below.
+2019-05-20 00:50:55,536 - com.ebaytvshopping.testcases.TC_PurchaseTv -FATAL - Test Failed!! Remainig tests will be skipped
+2019-05-20 00:52:34,176 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-20 00:52:35,890 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-20 00:52:54,230 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-20 00:52:56,727 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Searching for the item
+2019-05-20 00:53:06,873 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One of the elements of this test could not be found. Please refer the error stacktrace below
+2019-05-20 00:53:06,874 - com.ebaytvshopping.testcases.TC_PurchaseTv -FATAL - Test Failed!! Remainig tests will be skipped
+2019-05-20 00:53:29,421 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One of the elements of this test could not be found. Please refer the error stacktrace below.
+2019-05-20 00:53:29,421 - com.ebaytvshopping.testcases.TC_PurchaseTv -FATAL - Test Failed!! Remainig tests will be skipped
+2019-05-20 00:55:56,503 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-20 00:56:00,101 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-20 00:56:18,910 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-20 00:56:21,686 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Searching for the item
+2019-05-20 00:56:40,343 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-20 00:56:40,352 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Cheking item details
+2019-05-20 00:56:43,918 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-20 00:56:49,444 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking cart details
+2019-05-20 00:57:11,984 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-20 00:58:18,772 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-20 00:58:20,465 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-20 00:58:39,918 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-20 00:58:42,683 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Searching for the item
+2019-05-20 00:59:01,300 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-20 00:59:01,312 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Cheking item details
+2019-05-20 00:59:08,216 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-20 00:59:09,110 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking cart details
+2019-05-20 00:59:31,722 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-20 01:02:35,666 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-20 01:02:37,318 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-20 01:02:56,262 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-20 01:02:58,737 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Searching for the item
+2019-05-20 01:03:18,098 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-20 01:03:18,106 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Cheking item details
+2019-05-20 01:03:27,836 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-20 01:03:28,727 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking cart details
+2019-05-20 01:03:32,208 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One of the elements of this test could not be found. Please refer the error stacktrace below.
+2019-05-20 01:03:32,209 - com.ebaytvshopping.testcases.TC_PurchaseTv -FATAL - Test Failed!! Remainig tests will be skipped.
+2019-05-20 01:03:53,356 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-20 01:07:33,473 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-20 01:07:35,270 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-20 01:07:53,839 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-20 01:07:56,910 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Searching for the item
+2019-05-20 01:08:15,253 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-20 01:08:15,272 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Cheking item details
+2019-05-20 01:08:23,463 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-20 01:08:24,295 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking cart details
+2019-05-20 01:08:27,171 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One of the elements of this test could not be found. Please refer the error stacktrace below.
+2019-05-20 01:08:27,172 - com.ebaytvshopping.testcases.TC_PurchaseTv -FATAL - Test Failed!! Remainig tests will be skipped.
+2019-05-20 01:08:47,701 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-20 01:10:25,206 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-20 01:10:26,966 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-20 01:10:45,192 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-20 01:10:48,614 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Searching for the item
+2019-05-20 01:11:08,621 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-20 01:11:08,635 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Cheking item details
+2019-05-20 01:11:16,974 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-20 01:11:17,823 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking cart details
+2019-05-20 01:11:20,414 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One of the elements of this test could not be found. Please refer the error stacktrace below.
+2019-05-20 01:11:20,414 - com.ebaytvshopping.testcases.TC_PurchaseTv -FATAL - Test Failed!! Remainig tests will be skipped.
+2019-05-20 01:11:40,608 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-20 01:20:35,094 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-20 01:20:36,729 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-20 01:20:54,955 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-20 01:20:57,345 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Searching for the item
+2019-05-20 01:21:15,585 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-20 01:21:15,598 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Cheking item details
+2019-05-20 01:21:23,404 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-20 01:21:24,305 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking cart details
+2019-05-20 01:21:26,918 - com.ebaytvshopping.testcases.TC_PurchaseTv -ERROR - One of the elements of this test could not be found. Please refer the error stacktrace below.
+2019-05-20 01:21:26,918 - com.ebaytvshopping.testcases.TC_PurchaseTv -FATAL - Test Failed!! Remainig tests will be skipped.
+2019-05-20 01:21:45,113 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-20 01:24:24,356 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-20 01:24:25,970 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-20 01:24:44,977 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-20 01:24:47,862 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Searching for the item
+2019-05-20 01:25:07,560 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-20 01:25:07,571 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Cheking item details
+2019-05-20 01:25:11,096 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-20 01:25:17,079 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking cart details
+2019-05-20 01:25:19,161 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking out
+2019-05-20 01:25:19,780 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
+2019-05-20 01:25:19,781 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-20 01:25:25,758 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Test scenario coverage is completed
+2019-05-20 01:25:45,987 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-20 01:27:05,361 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-20 01:27:07,092 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-20 01:27:25,882 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-20 01:27:28,676 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Searching for the item
+2019-05-20 01:27:47,440 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-20 01:27:47,455 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Cheking item details
+2019-05-20 01:27:50,790 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-20 01:27:56,328 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking cart details
+2019-05-20 01:27:58,470 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking out
+2019-05-20 01:27:59,094 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
+2019-05-20 01:27:59,094 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-20 01:28:03,575 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Test scenario coverage is completed
+2019-05-20 01:28:24,187 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
+2019-05-20 09:53:11,582 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Application launched
+2019-05-20 09:53:13,239 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Logging in
+2019-05-20 09:53:31,639 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Successfully logged in
+2019-05-20 09:53:34,427 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Searching for the item
+2019-05-20 09:53:53,615 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is selected
+2019-05-20 09:53:53,627 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Cheking item details
+2019-05-20 09:54:01,299 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Required item is added to cart
+2019-05-20 09:54:02,126 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking cart details
+2019-05-20 09:54:05,526 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Checking out
+2019-05-20 09:54:06,236 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code is not written to add valid credit card or PayPal account
+2019-05-20 09:54:06,237 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Code needs to be added when a valid credit card or PayPal details are available
+2019-05-20 09:54:10,869 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Test scenario coverage is completed
+2019-05-20 09:54:31,313 - com.ebaytvshopping.testcases.TC_PurchaseTv -INFO - Post test actions: Cart cleared
